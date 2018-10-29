@@ -53,4 +53,8 @@ get_header();
 
 </div>
 </section>
+
+<section class="process">
+  
+</section>
 <?php get_footer(); ?>
